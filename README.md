@@ -2,6 +2,7 @@
  ### Used Techs
  - [Next.js](https://nextjs.org/)
  - [disease.sh API](https://disease.sh/) 
+ - [Recharts](https://recharts.org/en-US)
  
  ---
  
