@@ -14,3 +14,21 @@ a {
 * {
   box-sizing: border-box;
 }
+
+#countries > path {
+  fill-rule: evenodd;
+  fill: #8471E5;
+  stroke: #8471E5;
+  transition: fill 100ms;
+  cursor: pointer;
+  transition: fill 300ms, stroke 300ms;
+  
+}
+#countries > path:hover {
+  fill: #C21460 ;
+  stroke: #C21460;
+}
+
+svg{
+  filter: drop-shadow(10px 10px 5px rgba(0,0,0,0.7));
+}
