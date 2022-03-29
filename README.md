@@ -4,6 +4,8 @@
  - [disease.sh API](https://disease.sh/) 
  - [Recharts](https://recharts.org/en-US)
  
+ Try app [here.](https://covid19-wordview-deploy.vercel.app/)
+ 
  ---
  
  ![image](https://user-images.githubusercontent.com/41192900/160447655-ca7eb947-a1b6-46e0-bd68-841e5fc5beac.png)
